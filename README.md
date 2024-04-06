@@ -31,7 +31,7 @@ java -Dfile.encoding=UTF-8 -Xms2G -Xmx2G -jar paper.jar
 NOTE: -Xms2G is the minimum amount of ram, -Xmx2G is the maximum amount of ram. Depends on your server specs, you want to change it to fit perfectly.
 
 4. Configure the setup (If you need)  
-* Open server.properties, config server port and ip, and MOTD
+* Open server.properties, config server port and ip, and MOTD. If you are cracked user, change online-mode to off
 * Replace the old server.png file with your server icon (128x128) and rename it to server.png
 * Open \plugins\TAB\config.yml, change the header-footer and scoreboard
 5. Start the server and enjoy!
