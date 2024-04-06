@@ -41,5 +41,7 @@ Now you have your own version of a Bedwars server. You can now play with your fr
 
 ## Credit
 > Project Creator: AnZeta/RinR1nMC
+
 > Tutorial Creator: AnZeta/RinR1nMC
+
 > Graphics Creator: AnZeta/RinR1nMC
